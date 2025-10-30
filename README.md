@@ -71,8 +71,7 @@ All rooms cleaned!
 - Add random movement or multiple agents  
 
 ---
-
 ## 👨‍💻 Author
-**Your Name**  
-AI Student | Python Enthusiast  
-📧 your.email@example.com  
+**Shahzad Ahmad**  
+AI Expert | Python Enthusiast  
+📧 shahzadjafar@live.com     https://www.linkedin.com/in/shahzadjafar/ 
